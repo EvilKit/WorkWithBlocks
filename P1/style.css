@@ -1,0 +1,17 @@
+#ball{
+width:100px;
+    height: 100px;
+    background: brown;
+    position:absolute;
+    left:100px;
+    top:100px;
+}
+#a1{
+width:150px;
+    height:150px;
+    border: 1px solid black;
+    position:absolute;
+    left:500px;
+    top:400px;
+}
+s
